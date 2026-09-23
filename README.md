@@ -87,6 +87,8 @@ Me chamo Felipe Marinho De Araujo, tenho 20 anos e sou de Indaiatuba, SP. Atualm
 - Principais aprendizados:
 - Importância do portfólio.
 
+# ATIVIDADE AVALIATIVA
+
 # 📚 Capítulo 1 – Algoritmos
 
 ---
